@@ -1,7 +1,3 @@
-# ai-data-cyber-path
-
-
-
 #### **Project overview**
 
 

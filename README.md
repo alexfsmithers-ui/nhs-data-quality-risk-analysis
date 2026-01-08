@@ -7,7 +7,7 @@ This project explores a publicly available NHS dataset on Community Health Servi
 
 #### **Data used**
 
-The data comes from an official NHS publication covering the period April 2025 to March 2026. The Excel file contains multiple tables and explanatory sheets. I focused on Table 1, which records the number of organisations that did not submit data, broken down by organisation type and month.
+The data comes from an official NHS publication covering the period April 2025 to March 2026 (up to October 2025). The Excel file contains multiple tables and explanatory sheets. I focused on Table 1, which records the number of organisations that did not submit data, broken down by organisation type and month.
 
 In this dataset, an “organisation” refers to a reporting unit at either regional or Integrated Care Board (ICB) level, representing a grouping of providers expected to submit Community Health Services SitRep data for a given reporting period.
 
